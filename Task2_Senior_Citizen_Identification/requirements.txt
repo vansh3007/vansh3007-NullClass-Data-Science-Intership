@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+imutils
+datetime
+streamlit
+Pillow
